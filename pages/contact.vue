@@ -1,0 +1,4 @@
+<template>
+    <Contact />
+    <Map />
+    </template>

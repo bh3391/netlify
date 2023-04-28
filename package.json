@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/image-edge": "^1.0.0-27968280.9739e4d",
+    "@nuxtjs/google-fonts": "^3.0.0",
+    "@nuxtjs/tailwindcss": "^6.4.1",
+    "@nuxtjs/web-vitals": "^0.2.2",
+    "nuxt": "^3.2.3",
+    "nuxt-seo-kit": "^1.3.4"
+  },
+  "dependencies": {
+    "daisyui": "^2.51.3"
+  }
+}
